@@ -1,0 +1,41 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+virtualenv/
+
+# PyInstaller Artifacts
+build/
+dist/
+*.spec
+
+# Output Files
+samples/output/*.xlsx
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Excel Files
+*.xlsx
+
+# Logs and Databases
+*.log
+*.sqlite
+*.sqlite3
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+
+# Testing / Coverage
+.coverage
+htmlcov/
+.tox/
